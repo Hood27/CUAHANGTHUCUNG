@@ -375,6 +375,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     height: 90%;
+    list-style: none;
 }
 .quangcao-left__list a{
     text-decoration: none;
